@@ -24,7 +24,7 @@ This project demonstrates an end-to-end e-commerce data processing pipeline usin
 - `bronze_layer.py` — Bronze layer processing
 - `data_quality_checks.py` — Data quality validation
 - `gold_delta_layer.py` — Gold layer Delta tables
-- `delta_merge.py` — Delta Lake merge practice
+- `delta_merge.py` — Delta Lake MERGE operations
 - `delta_operations.py` — Delta Lake operations
 - `delta_history.py` — Delta table history
 - `delta_time_travel.py` — Delta Lake time travel
